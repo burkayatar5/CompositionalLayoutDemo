@@ -138,6 +138,7 @@ extension CreateViewController {
             cell.titleLabel.text = workoutItem.title
             cell.explanationLabel.text = workoutItem.explanation
             
+            ///Only available after iOS 16.0
             var contentConfiguration = cell.defaultBackgroundConfiguration()
             contentConfiguration.cornerRadius = 30
             contentConfiguration.backgroundColor = .systemGray
