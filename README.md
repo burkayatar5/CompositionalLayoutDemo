@@ -3,7 +3,7 @@
 **Practice of modern concepts such as DiffableDataSource and Compositional Layout.**
 
 In progress...<br/>
-To-Do: - [ ] Detail views for the cells.<br/>
+To-Do: - [ ] <input type="checkbox">  Detail views for the cells. <br/>
 
 Any advice or comments are appreciated.
 
