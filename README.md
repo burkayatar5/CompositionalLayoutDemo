@@ -6,6 +6,6 @@ in progres...<br/>
 to-do: Detail views for the cells.<br/>
 any advice or comments are appreciated.
 
-[<img src="builtInSegment.png" width="300" height="500" />](builtInSegment.png) <pre/>
+[<img src="builtInSegment.png" width="300" height="500" />](builtInSegment.png)&nbsp;&nbsp;
 [<img src="customSegment.png" width="300" height="500" />](customSegment.png)
 
