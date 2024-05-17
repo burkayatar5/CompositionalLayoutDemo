@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9792B047-DEEC-4427-A324-9081EE1FE6D2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C00B7A68-84CF-4CA0-8CA6-59DA6675C25E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "318"
+            endingLineNumber = "318"
+            landmarkName = "segmentValueChanged(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C00B7A68-84CF-4CA0-8CA6-59DA6675C25E - 8188fd5edcb52625"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.segmentValueChanged(sender: __C.UISegmentedControl) -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "286"
+                  endingLineNumber = "286"
+                  offsetFromSymbolStart = "603">
+               </Location>
+               <Location
+                  uuid = "C00B7A68-84CF-4CA0-8CA6-59DA6675C25E - 8188fd5edcb5229f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.segmentValueChanged(sender: __C.UISegmentedControl) -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "312"
+                  endingLineNumber = "312"
+                  offsetFromSymbolStart = "1201">
+               </Location>
+               <Location
+                  uuid = "C00B7A68-84CF-4CA0-8CA6-59DA6675C25E - 8188fd5edcb52551"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.segmentValueChanged(sender: __C.UISegmentedControl) -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "306"
+                  endingLineNumber = "306"
+                  offsetFromSymbolStart = "1204">
+               </Location>
+               <Location
+                  uuid = "C00B7A68-84CF-4CA0-8CA6-59DA6675C25E - 8188fd5edcb52572"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.segmentValueChanged(sender: __C.UISegmentedControl) -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "307"
+                  endingLineNumber = "307"
+                  offsetFromSymbolStart = "1210">
+               </Location>
+               <Location
+                  uuid = "C00B7A68-84CF-4CA0-8CA6-59DA6675C25E - 8188fd5edcb522b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.segmentValueChanged(sender: __C.UISegmentedControl) -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "313"
+                  endingLineNumber = "313"
+                  offsetFromSymbolStart = "1201">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DF70748-0A80-4383-B204-24D2056E3340"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "supplementProviderBuiltIn()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DF70748-0A80-4383-B204-24D2056E3340 - 50435467425e78ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UICollectionView, Swift.String, Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UICollectionReusableView&gt; in CompositionalLayoutDemo.CreateViewController.supplementProviderBuiltIn() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "185">
+               </Location>
+               <Location
+                  uuid = "4DF70748-0A80-4383-B204-24D2056E3340 - 50435467425e7fe6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UICollectionView, Swift.String, Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UICollectionReusableView&gt; in CompositionalLayoutDemo.CreateViewController.supplementProviderBuiltIn() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DCE6237-FEBD-4119-AFAE-3F615717E9F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "configureSnapshotCustom()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7DCE6237-FEBD-4119-AFAE-3F615717E9F8 - 930453bf31edd4c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UICollectionView, Swift.String, Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UICollectionReusableView&gt; in CompositionalLayoutDemo.CreateViewController.supplementProviderCustom() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "7DCE6237-FEBD-4119-AFAE-3F615717E9F8 - a3139824d58a20a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.configureSnapshotCustom() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "237">
+               </Location>
+               <Location
+                  uuid = "7DCE6237-FEBD-4119-AFAE-3F615717E9F8 - 61147faf4031e758"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CompositionalLayoutDemo.CustomDataModel.CustomWorkouts) -&gt; () in CompositionalLayoutDemo.CreateViewController.configureSnapshotCustom() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "281"
+                  endingLineNumber = "281"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "7DCE6237-FEBD-4119-AFAE-3F615717E9F8 - a3139824d58a21b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.configureSnapshotCustom() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "237">
+               </Location>
+               <Location
+                  uuid = "7DCE6237-FEBD-4119-AFAE-3F615717E9F8 - 61147faf4031e627"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CompositionalLayoutDemo.CustomDataModel.CustomWorkouts) -&gt; () in CompositionalLayoutDemo.CreateViewController.configureSnapshotCustom() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBE0598E-6128-4230-865B-E76154C2FDFF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
+            landmarkName = "supplementProviderCustom()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DBE0598E-6128-4230-865B-E76154C2FDFF - 3c8aaf5c6cccd84e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CompositionalLayoutDemo.HeaderCollectionReusableView, Swift.String, Foundation.IndexPath) -&gt; () in CompositionalLayoutDemo.CreateViewController.headerRegistrationCustom() -&gt; __C.UICollectionView.SupplementaryRegistration&lt;CompositionalLayoutDemo.HeaderCollectionReusableView&gt;"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "247"
+                  endingLineNumber = "247"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "DBE0598E-6128-4230-865B-E76154C2FDFF - 9df2178b391483f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.supplementProviderCustom() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "DBE0598E-6128-4230-865B-E76154C2FDFF - 930453bf31edd6d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UICollectionView, Swift.String, Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UICollectionReusableView&gt; in CompositionalLayoutDemo.CreateViewController.supplementProviderCustom() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "169">
+               </Location>
+               <Location
+                  uuid = "DBE0598E-6128-4230-865B-E76154C2FDFF - 9df2178b39148cf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.supplementProviderCustom() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "DBE0598E-6128-4230-865B-E76154C2FDFF - 930453bf31edd9d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UICollectionView, Swift.String, Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UICollectionReusableView&gt; in CompositionalLayoutDemo.CreateViewController.supplementProviderCustom() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "169">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB4E1188-226C-4F4A-8C5B-43AB1BB096B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "configureCollectionView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB4E1188-226C-4F4A-8C5B-43AB1BB096B7 - 7a6f882e9da55023"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.configureCollectionView() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "FB4E1188-226C-4F4A-8C5B-43AB1BB096B7 - 7a6f882e9da550c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CompositionalLayoutDemo.CreateViewController.configureCollectionView() -&gt; ()"
+                  moduleName = "CompositionalLayoutDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burkayatar/Desktop/Developments/CompositionalLayoutDemo/CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31F0B569-0FDE-432A-B131-C92FCB507783"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayoutDemo/Controllers/CreateViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FCD4013-33E2-4C08-8BDB-727079AD7D11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CompositionalLayoutDemo/Views/BuiltInCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
