@@ -7,6 +7,6 @@ to-do: Detail views for the cells.
 
 any advice or comments are appreciated.
 
-![Built In segment screenshot](builtInSegment.png = 200x400)
-![Custom segment screenshot](customSegment.png = 200x400)
+[<img src="builtInSegment.png" width="250" height="400" />](builtInSegment.png)
+[<img src="customSegment.png" width="250" height="400" />](customSegment.png)
 
