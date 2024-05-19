@@ -56,6 +56,7 @@ extension CreateViewController {
     private func configureCollectionView() {
         collectionView = UICollectionView(frame: view.bounds, collectionViewLayout: customLayout)
         collectionView.translatesAutoresizingMaskIntoConstraints = false
+        collectionView.delegate = self
         view.addSubview(collectionView)
     }
     
@@ -348,6 +349,32 @@ extension CreateViewController {
         for sectionIndex in 0..<dataSource.numberOfSections(in: collectionView) {
             let indexPath = IndexPath(item: 0, section: sectionIndex)
             collectionView.scrollToItem(at: indexPath, at: .left, animated: false)
+        }
+    }
+}
+
+///Collection View delegate methods
+extension CreateViewController: UICollectionViewDelegate {
+    func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
+        switch segmentedControl.selectedSegmentIndex {
+        case 0:
+            //Show Detail of Built In cell
+            guard let selectedItem = dataSourceBuiltIn.itemIdentifier(for: indexPath) else { return }
+            let detailVC = DetailViewController(titleText: selectedItem.title, detailText: selectedItem.explanation)
+            detailVC.modalPresentationStyle = .formSheet
+            self.present(detailVC, animated: true)
+            //self.navigationController?.pushViewController(detailVC, animated: true)
+            
+        case 1:
+            //Show Detail of Custom Cell
+            guard let selectedItem = dataSourceCustom.itemIdentifier(for: indexPath) else { return }
+            print(selectedItem)
+        default:
+            //Show Alert
+            let alertController: UIAlertController = UIAlertController(title: "Ups!", message: "Something went wrong please try again.", preferredStyle: .alert)
+            let alertAction: UIAlertAction = UIAlertAction(title: "Ok", style: .default)
+            alertController.addAction(alertAction)
+            self.present(alertController, animated: true)
         }
     }
 }
