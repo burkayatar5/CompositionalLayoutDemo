@@ -249,6 +249,7 @@ extension CreateViewController {
             var content = cell.defaultContentConfiguration()
             content.text = workoutItem.title
             content.secondaryText =  "Avaliable Content: " + String(describing: workoutItem.detail.count)
+            content.prefersSideBySideTextAndSecondaryText = true
             
             cell.contentConfiguration =  content
             cell.accessories = [.disclosureIndicator()]
