@@ -361,8 +361,18 @@ extension CreateViewController: UICollectionViewDelegate {
             //Show Detail of Built In cell
             guard let selectedItem = dataSourceBuiltIn.itemIdentifier(for: indexPath) else { return }
             let detailVC = DetailViewController(titleText: selectedItem.title, detailText: selectedItem.explanation)
-            detailVC.modalPresentationStyle = .formSheet
+            
+            if let sheet = detailVC.sheetPresentationController {
+                sheet.detents = [.medium(), .large()]
+                sheet.preferredCornerRadius = 30
+                sheet.prefersGrabberVisible = true
+            }
+            
             self.present(detailVC, animated: true)
+            
+            //detailVC.modalPresentationStyle = .formSheet
+            //self.present(detailVC, animated: true)
+            
             //self.navigationController?.pushViewController(detailVC, animated: true)
             
         case 1:
